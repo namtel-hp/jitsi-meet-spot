@@ -82,7 +82,7 @@ export default class SettingsMenu extends React.Component {
      * @returns {void}
      */
     _onOpenPrivacyPolicy() {
-        Linking.openURL('https://www.8x8.com/terms-and-conditions/privacy-policy');
+        Linking.openURL('https://saza.vn/support/privacy.php');
     }
 
     /**
@@ -92,6 +92,6 @@ export default class SettingsMenu extends React.Component {
      * @returns {void}
      */
     _onOpenTermsAndConditions() {
-        Linking.openURL('https://www.8x8.com/terms-and-conditions/8x8-end-user-terms-of-use');
+        Linking.openURL('https://saza.vn/support/legal.php');
     }
 }
