@@ -17,7 +17,7 @@ import './src/beacons';
 import './src/notifications';
 
 // FIXME make it possible to configure default URL on the build time
-const DEFAULT_URL = 'https://spot.8x8.vc';
+const DEFAULT_URL = 'https://spot.saza.vn';
 
 /**
  * The async storage key which holds the remote control URL.
