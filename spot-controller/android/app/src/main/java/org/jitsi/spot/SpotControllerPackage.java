@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.jitsi.spot;
+package vn.saza.spot;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
