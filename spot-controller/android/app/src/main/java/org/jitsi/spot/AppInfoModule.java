@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.jitsi.spot;
+package vn.saza.spot;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
