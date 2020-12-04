@@ -3,7 +3,7 @@
     "build": {
         "afterSign": "scripts/notarize.js",
         "productName": "Spot",
-        "appId": "org.jitsi.spot",
+        "appId": "vn.saza.spot",
         "mac": {
             "category": "public.app-category.business",
             "entitlements": "entitlements.mac.plist",
