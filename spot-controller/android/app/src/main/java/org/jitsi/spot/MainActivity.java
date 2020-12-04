@@ -1,4 +1,4 @@
-package org.jitsi.spot;
+package vn.saza.spot;
 
 import com.facebook.react.ReactActivity;
 
