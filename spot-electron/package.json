@@ -59,7 +59,7 @@
     "license": "ISC",
     "main": "main.js",
     "name": "spot-electron",
-    "productName": "Jitsi Spot",
+    "productName": "Spot",
     "scripts": {
         "dist": "electron-builder",
         "lint": "eslint .",
