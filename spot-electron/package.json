@@ -3,6 +3,7 @@
     "build": {
         "afterSign": "scripts/notarize.js",
         "productName": "Spot",
+	"copyright": "Copyright @2020 ${author}",
         "appId": "SAZA",
         "mac": {
             "icon": "./src/static/icon.icns",
