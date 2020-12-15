@@ -1,9 +1,9 @@
 {
-    "author": "Jitsi",
+    "author": "SAZA",
     "build": {
         "afterSign": "scripts/notarize.js",
         "productName": "Spot",
-        "appId": "vn.saza.spot",
+        "appId": "SAZA",
         "mac": {
             "category": "public.app-category.business",
             "entitlements": "entitlements.mac.plist",
