@@ -1,5 +1,5 @@
 {
-    "author": "SAZA",
+    "author": "Jitsi",
     "build": {
         "afterSign": "scripts/notarize.js",
         "productName": "Spot",
