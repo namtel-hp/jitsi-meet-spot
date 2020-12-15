@@ -5,7 +5,7 @@
         "productName": "Spot",
         "appId": "SAZA",
         "mac": {
-            "icon": "./public/icons/mac/icon.icns",
+            "icon": "./src/static/icon.icns",
             "category": "public.app-category.business",
             "entitlements": "entitlements.mac.plist",
             "entitlementsInherit": "entitlements.mac.plist",
@@ -23,7 +23,7 @@
             "publishAutoUpdate": true
         },
         "win": {
-            "icon": "./public/icons/png/icon.ico",
+            "icon": "./src/static/icon.ico",
             "extraFiles": [
                 {
                     "from": "C:/Windows/System32/vccorlib140.dll",
