@@ -5,6 +5,7 @@
         "productName": "Spot",
         "appId": "SAZA",
         "mac": {
+            "icon": "./public/icons/mac/icon.icns",
             "category": "public.app-category.business",
             "entitlements": "entitlements.mac.plist",
             "entitlementsInherit": "entitlements.mac.plist",
@@ -16,11 +17,13 @@
             ]
         },
         "publish": {
-            "provider": "github",
+            "provider": "generic",
+	        "url": "http://meet.saza.vn/apps/downloads/spot",
             "private": false,
             "publishAutoUpdate": true
         },
         "win": {
+            "icon": "./public/icons/png/icon.ico",
             "extraFiles": [
                 {
                     "from": "C:/Windows/System32/vccorlib140.dll",
