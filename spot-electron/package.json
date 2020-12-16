@@ -19,7 +19,7 @@
         },
         "publish": {
             "provider": "generic",
-	        "url": "http://meet.saza.vn/apps/downloads/spot",
+	    "url": "http://meet.saza.vn/apps/downloads/spot",
             "private": false,
             "publishAutoUpdate": true
         },
